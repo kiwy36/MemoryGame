@@ -3,7 +3,8 @@ const imagenesACargar = [
   './img/004.jpg', './img/005.jpg', './img/006.jpg', './img/007.jpg',
   './img/008.jpg', './img/009.jpg', './img/010.jpg', './img/011.jpg',
   './img/012.jpg', './img/013.jpg', './img/014.jpg', './img/015.jpg',
-  './img/016.jpg', './img/017.jpg', './img/018.jpg', './img/018.png',
+  './img/016.jpg', './img/017.jpg', './img/018.jpg', './img/019.jpg',
+  './img/017.jfif',
 ];
 
 const audios = [
@@ -74,7 +75,8 @@ function precargarImagenesGaleria() {
     './img/004.jpg', './img/005.jpg', './img/006.jpg', './img/007.jpg',
     './img/008.jpg', './img/009.jpg', './img/010.jpg', './img/011.jpg',
     './img/012.jpg', './img/013.jpg', './img/014.jpg', './img/015.jpg',
-    './img/016.jpg', './img/017.jpg', './img/018.jpg', './img/018.png',
+    './img/016.jpg', './img/017.jpg', './img/018.jpg', './img/019.jpg',
+    './img/017.jfif',
   ];
   
   imagenes.forEach(src => {
